@@ -1,11 +1,6 @@
-Here is a markdown file that introduces how to use TouchDesigner with some technical guidance for those already familiar with the basics:
 
 ```markdown
 # Introduction to TouchDesigner
-
-## Overview
-
-TouchDesigner is a powerful real-time visual development platform for creating interactive multimedia content. It is node-based and primarily used for live visuals, interactive installations, and complex simulations. This introduction assumes basic familiarity with the software and will dive into its core concepts and practical techniques for building projects.
 
 ## Key Concepts
 
