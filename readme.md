@@ -1,5 +1,7 @@
 # Introduction to TouchDesigner
 
+Intro to TouchDesigner according to ChatGPT
+
 ## Key Concepts
 
 ### 1. Operators (OPs)
@@ -105,5 +107,3 @@ TouchDesigner allows deep customization using Python scripting. You can use scri
 - **Hierarchies and COMPs**: Use `Container COMPs` and other components to group related nodes and make your network easier to manage.
 - **Learning Resources**: For advanced techniques, always refer to the [Derivative documentation](https://docs.derivative.ca) and community tutorials.
 ```
-
-This guide is structured to provide an immediate technical understanding for those familiar with TouchDesigner. It includes references to building networks, scripting, interaction, and optimization.
