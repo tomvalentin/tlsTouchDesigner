@@ -106,4 +106,3 @@ TouchDesigner allows deep customization using Python scripting. You can use scri
 
 - **Hierarchies and COMPs**: Use `Container COMPs` and other components to group related nodes and make your network easier to manage.
 - **Learning Resources**: For advanced techniques, always refer to the [Derivative documentation](https://docs.derivative.ca) and community tutorials.
-```
