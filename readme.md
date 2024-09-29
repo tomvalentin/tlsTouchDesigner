@@ -20,6 +20,7 @@ Each operator comes with its set of parameters, which can be customized. You can
 For example, you might use a simple Python expression to link the rotation of one object to the position of another:
 ```python
 op('geo1').par.tx = op('geo2').par.ty * 2
+```
 
 ### 4. DAT-to-OP Communication
 DATs (tables or text data) can communicate with other OPs through scripting. This is especially useful when working with interactive setups or external data inputs like APIs or databases.
